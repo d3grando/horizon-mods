@@ -1,0 +1,23 @@
+id = "waypoints"
+kind = "mod"
+name = "Colored Waypoints"
+summary = "A colorful waypoints to simple your game."
+description = "Waypoints release (0.1.0)"
+authors = ["Isaac"]
+owners = ["Fernandes585"]
+license = "MIT"
+source = "https://github.com/Fernandes585/waypoints_horizon"
+key = "RWQavxJYlii0Mly90qvqw5NTkqJEmh+2V1LP6tOMMDxw4r9IIerGloQL"
+
+[[versions]]
+version = "0.1.0"
+published = "2026-10-27"
+game = "26.3"
+file = "waypoints-0.1.0.hmod"
+sha256 = "6836b2460fc3a12a2e4b1aa58120e568a614d1681ddb28892f6c6d2822ee96de"
+signature = """
+untrusted comment: signature from minisign secret key\r
+RUQavxJYlii0Mq15Yp0m9a2/g6dU2t4HW3jz/ex7wH6SGXodkNxtg7pLgXX5z1hfT1ZV7/xng/vsoJAFlYLflnY9/RVPYZZkhAA=\r
+trusted comment: timestamp:1793131640\tfile:waypoints.hmod\thashed\r
+9Dlj/psXoZcKZd42acoXjyjlJ0D8NEN54Mamd4a33daLetdbWOEVKlMCXJ3TFyU1rffGaNbab50em64Zj9RMCQ=="""
+changelog = "First Version"
